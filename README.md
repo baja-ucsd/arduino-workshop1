@@ -1,8 +1,8 @@
 # arduino-workshop1
 
-Hello Control Team,
+Hello Control Team,;
 
-In this Arduino Workshop, you will learn about
+In this Arduino Workshop, you will learn about;
 (1) Github
 (2) Pycharm
 (3) Arduino
@@ -12,4 +12,4 @@ Please follow this tutorial https://guides.github.com/activities/hello-world/#co
 and complete three tasks:
 (1) create your own branch in this repository
 (2) create a new file in your branch,
-(3) and make a commit in this new file
+(3) and make a commit in this new file.
