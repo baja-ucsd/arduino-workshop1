@@ -14,4 +14,4 @@ and complete five tasks:
 2. Create a new file under your branch, name it "Practice"
 3. Make a commit in this new file. (write random stuff)
 4. Open a Pull Request
-5. Merge yours or others Pull Request (once you merge, your edit version will be incorporate in the master version)
+5. Merge yours or others Pull Request (once you merge, the master version will be updated by your edit version)
